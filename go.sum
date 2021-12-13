@@ -1,0 +1,12 @@
+github.com/evilsocket/brutemachine v0.0.0-20170703145059-0331ad6a82ce h1:LUfHM3hh98OzurXk5CF4PTCHFFACsAcBRgZmGkap6Z0=
+github.com/evilsocket/brutemachine v0.0.0-20170703145059-0331ad6a82ce/go.mod h1:WnG+R/UHyKYQnmXaJ+L3DdZPf0yt36rxHw9dn3IQQeg=
+github.com/evilsocket/dirsearch v0.0.0-20210927162954-fe7fffa39084 h1:/2XyOoAMZ0QK0nG54OIn0OWP6nNbitqph9ijP+LeK7Y=
+github.com/evilsocket/dirsearch v0.0.0-20210927162954-fe7fffa39084/go.mod h1:nDVBqMyRMEARuuv/CZVRHsx2Vd3K6x19mAEa+GkWilI=
+github.com/fatih/color v1.5.0 h1:vBh+kQp8lg9XPr56u1CPrWjFXtdphMoGWVHr9/1c+A0=
+github.com/fatih/color v1.5.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
+github.com/mattn/go-colorable v0.0.8-0.20170210172801-5411d3eea597 h1:Zw9aNQ5CQ3SERpCiZrPh4vdWcBWogoEd5m8AFf2QWVs=
+github.com/mattn/go-colorable v0.0.8-0.20170210172801-5411d3eea597/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
+github.com/mattn/go-isatty v0.0.2-0.20170307163044-57fdcb988a5c h1:vNDTotKSxm/15mLGhBXjdU6q6Ncrx0HlVEd8ToAsGTw=
+github.com/mattn/go-isatty v0.0.2-0.20170307163044-57fdcb988a5c/go.mod h1:M+lRXTBqGeGNdLjl/ufCoiOlB5xdOkqRJdNxMWT7Zi4=
+golang.org/x/sys v0.0.0-20170213225739-e24f485414ae h1:GTtEQDSA+M757ZEFcmC1Z5tEQXeyj0/vKmKeGqKRbP4=
+golang.org/x/sys v0.0.0-20170213225739-e24f485414ae/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
